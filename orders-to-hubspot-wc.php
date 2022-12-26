@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce orders to HubSpot
  * Description: Send orders to HubSpot
  * Author:      Vladimir Udachin
- * Version:     0.9.1
+ * Version:     1.0.0
  *
  * Requires PHP: 7.4
  *
